@@ -58,7 +58,7 @@ export default function Footer() {
           <div className="flex flex-wrap justify-center gap-6 text-[11px] text-slate-500 font-bold uppercase tracking-widest">
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-green-500 rounded-full shadow-[0_0_8px_#22c55e]" />
-              Mainnet Connected
+              Connected
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-green-500 rounded-full shadow-[0_0_8px_#22c55e]" />
