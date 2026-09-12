@@ -21,7 +21,7 @@ export default function Hero({ isLoggedIn, onJoin, onLearn }: HeroProps) {
       {/* Sky Blue Overlay */}
       <div className="absolute inset-0 bg-blue-600/10 z-[1]" />
 
-      <div className="relative z-10 text-left px-12 md:px-24 max-w-7xl w-full">
+      <div className="relative z-10 text-left px-12 md:px-24 max-w-7xl w-full translate-y-40">
         <motion.h1
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
