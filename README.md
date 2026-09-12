@@ -344,3 +344,4 @@ Building technology for social impact through blockchain.
 
 </div>
 <!-- GitHub achievement test -->
+Built with React, Express, and the Stellar ecosystem.
